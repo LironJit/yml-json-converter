@@ -2,6 +2,8 @@
 
 This is a Python program that converts YAML files to JSON files. It supports conversion of all `.yml` and `.yaml` files in the root directory of the project.
 
+Instead of uploading your sensitive .yaml files to an unknown site, you can gather all yaml files in the root directory and run the program to generate the matching .json files.
+
 ## Getting Started
 
 ### Prerequisites
